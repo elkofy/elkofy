@@ -1,6 +1,6 @@
 ### Bienvenue sur mon profil  👋
 ### 🔭 Je suis sur le developpment d'une application android
-### 🌱 Actuellement en formation à l'IUT2 de Grenoble
+### 🌱 Actuellement en formation chez Webtech Institute Lyon
 ### 📫 c'est ici que ça se passe : nassimdaikh71@gmail.com
 ### ⚡ Fun fact: a fun fact is never fun😔
 <!--
