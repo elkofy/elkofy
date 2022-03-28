@@ -1,7 +1,7 @@
 ### Bienvenue sur mon profil  👋
 ### 🔭 Je suis sur le developpment d'un jeu en React
 ### 🌱 Actuellement en formation chez Webtech Institute Lyon
-### 📫 c'est ici que ça se passe : nassimdaikh71@gmail.com
+### 📫 Des questions ? c'est par ici => nassimdaikh71@gmail.com
 ### ⚡ Fun fact: a fun fact is never fun😔
 <!--
 **elkofy/elkofy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
