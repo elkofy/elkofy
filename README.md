@@ -1,17 +1,14 @@
-### Bienvenue sur mon profil  👋
-### 🔭 Je suis sur le developpment d'un jeu en React
-### 🌱 Actuellement en formation chez Webtech Institute Lyon
-### 📫 Des questions ? c'est par ici => nassimdaikh71@gmail.com
-### ⚡ Fun fact: a fun fact is never fun😔
-<!--
-**elkofy/elkofy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi 👋 My name is Nassim Daikh
+=============================
 
-Here are some ideas to get you started:
+Full Stack Developper and Technical Writer
+------------------------------------------
 
+I've been learning to code 3 years ago. I am here to cultivate my difference as a developer by going deeply into the mechanisms and the new technologies.
 
-### 🌱 Actuellement en formation à l'IUT2 de Grenoble
-### 📫 c'est ici que ça se passe : nassimdaikh71@gmail.com
-###⚡ Fun fact: a fun fact is never fun 
--->
-
-![daikh-nassim](https://user-images.githubusercontent.com/46243642/185389841-420212d8-7bc7-46ed-969d-ae267d359e2c.svg)
+*   🌍  I'm based in Lyon, France
+*   🖥️  HSee my portfolio [here](https://nhasbeen.hashnode.dev)
+*   ✉️  You can contact me at [nassimdaikh71@gmail.com](mailto:nassimdaikh71@gmail.com)
+*   🧠  I'm learning Symfony
+*   ⚡  fun fact : a fun fact is never fun
+*   🚀  I'm currently working on Twart (Coming soon)
