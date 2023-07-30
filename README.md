@@ -11,4 +11,3 @@ I've been learning to code 3 years ago. I am here to cultivate my difference as 
 *   ✉️  You can contact me at [nassimdaikh71@gmail.com](mailto:nassimdaikh71@gmail.com)
 *   🧠  I'm learning Symfony
 *   ⚡  fun fact : a fun fact is never fun
-*   🚀  I'm currently working on Twart (Coming soon)
