@@ -4,7 +4,7 @@ Hi 👋 My name is Nassim Daikh
 Full Stack Developper and Technical Writer
 ------------------------------------------
 
-I've been learning to code 3 years ago. I am here to cultivate my difference as a developer by going deeply into the mechanisms and the new technologies.
+I've been learning to code 5 years ago. I enjoy developping with the VueJs ecosystem.
 
 *   🌍  I'm based in Lyon, France
 *   🖥️  See my portfolio [here](https://nhasbeen.hashnode.dev)
