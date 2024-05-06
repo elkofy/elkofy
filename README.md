@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-19959
-Fork on GitHub
-6022
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Daikh Nasim</h1>
 <h3 align="center">A passionate Full-Stack developer from France</h3>
 
